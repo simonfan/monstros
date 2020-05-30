@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monstros/static/css/main.fb041099.chunk.css",
-    "main.js": "/monstros/static/js/main.8e947523.chunk.js",
-    "main.js.map": "/monstros/static/js/main.8e947523.chunk.js.map",
+    "main.css": "/monstros/static/css/main.9e49e6d6.chunk.css",
+    "main.js": "/monstros/static/js/main.4e679365.chunk.js",
+    "main.js.map": "/monstros/static/js/main.4e679365.chunk.js.map",
     "runtime-main.js": "/monstros/static/js/runtime-main.2e634cfa.js",
     "runtime-main.js.map": "/monstros/static/js/runtime-main.2e634cfa.js.map",
     "static/js/2.5910d291.chunk.js": "/monstros/static/js/2.5910d291.chunk.js",
     "static/js/2.5910d291.chunk.js.map": "/monstros/static/js/2.5910d291.chunk.js.map",
     "index.html": "/monstros/index.html",
-    "precache-manifest.c63a45d42e3fa622ac9beea86b0c2023.js": "/monstros/precache-manifest.c63a45d42e3fa622ac9beea86b0c2023.js",
+    "precache-manifest.4f20e244710bed5ea634223f7a37e0ee.js": "/monstros/precache-manifest.4f20e244710bed5ea634223f7a37e0ee.js",
     "service-worker.js": "/monstros/service-worker.js",
-    "static/css/main.fb041099.chunk.css.map": "/monstros/static/css/main.fb041099.chunk.css.map",
+    "static/css/main.9e49e6d6.chunk.css.map": "/monstros/static/css/main.9e49e6d6.chunk.css.map",
     "static/js/2.5910d291.chunk.js.LICENSE.txt": "/monstros/static/js/2.5910d291.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2e634cfa.js",
     "static/js/2.5910d291.chunk.js",
-    "static/css/main.fb041099.chunk.css",
-    "static/js/main.8e947523.chunk.js"
+    "static/css/main.9e49e6d6.chunk.css",
+    "static/js/main.4e679365.chunk.js"
   ]
 }
